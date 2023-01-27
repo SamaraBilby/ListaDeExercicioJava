@@ -1,5 +1,6 @@
 /.metadata/
 
+.gitignore
 
 # Compiled class file
 *.class
@@ -28,4 +29,4 @@ hs_err_pid*
 # Eclipse
 .settings/
 
-.DS_Store
+*.ds_store
