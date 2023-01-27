@@ -3,7 +3,7 @@
 
 
 # Compiled class file
-*.class
+*.classpath
 
 # Log file
 *.log
@@ -27,6 +27,6 @@
 hs_err_pid*
 
 # Eclipse
-.settings/
+/.settings/
 
 .DS_Store
