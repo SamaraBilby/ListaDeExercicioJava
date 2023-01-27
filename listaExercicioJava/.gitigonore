@@ -1,4 +1,3 @@
-/.metadata/
 
 
 # Compiled class file
@@ -27,3 +26,5 @@ hs_err_pid*
 
 # Eclipse
 .settings/
+
+.DS_Store
