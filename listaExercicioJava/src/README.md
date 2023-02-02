@@ -26,7 +26,7 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | Exercício  | Estado |
 | :---------------: | :---------------: |
 | 11 | :white_check_mark: |
-| 12 | :x: |
+| 12 | :white_check_mark: |
 | 13 | :x: |
 | 14 | :x: |
 | 15 | :x: |
