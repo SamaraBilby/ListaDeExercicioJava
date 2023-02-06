@@ -27,7 +27,7 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | :---------------: | :---------------: |
 | 11 | :white_check_mark: |
 | 12 | :white_check_mark: |
-| 13 | :x: |
+| 13 | :white_check_mark: |
 | 14 | :x: |
 | 15 | :x: |
 | 16 | :x: |
