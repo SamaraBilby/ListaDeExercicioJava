@@ -20,8 +20,6 @@ package listaExercicioJava;
 import java.util.Locale;
 import java.util.Scanner;
 
-import org.w3c.dom.UserDataHandler;
-
 public class Exercicio_14 {
 
     /**
