@@ -45,7 +45,7 @@ public class Exercicio_3 {
 			valorComissao = valorVenda * porcentagemComissao; 
 			
 			
-			System.out.printf("Valor Total da venda: %.2f%n Valor da Comissão do vendedor: %.2f%n", valorVenda, valorComissao);
+			System.out.printf("Valor Total da venda (Produto: %d): %.2f%n Valor da Comissão do vendedor (id: %d): %.2f%n",codPeca, valorVenda,idVendedor, valorComissao);
 			
 			
 		sc.close();
