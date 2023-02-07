@@ -35,22 +35,21 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 18 | :white_check_mark: |
 | 19 | :white_check_mark: |
 | 20 | :white_check_mark: |
-| 22 | :x: |
-| 22 | :x: |
+| 22 | :white_check_mark: |
+| 23 | :x: |
+| 24 | :x: |
 
 
 ### Nível 3: Estrutura de Seleção
 | Exercício  | Estado |
 | :---------------: | :---------------: |
-| 23 | :x: |
-| 24 | :x: |
 | 25 | :x: |
+| 26 | :x: |
+| 27 | :x: |
 
 ### Nível 4: Estruturas de Repetição
 | Exercício  | Estado |
 | :---------------: | :---------------: |
-| 26 | :x: |
-| 27 | :x: |
 | 28 | :x: |
 | 29 | :x: |
 | 30 | :x: |
@@ -68,16 +67,17 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 42 | :x: |
 | 43 | :x: |
 | 44 | :x: |
+| 45 | :x: |
+| 46 | :x: |
 
 ### Nível 5: Vetores e Matrizes
 | Exercício  | Estado |
 | :---------------: | :---------------: |
-| 45 | :x: |
-| 46 | :x: |
 | 47 | :x: |
 | 48 | :x: |
 | 49 | :x: |
 | 50 | :x: |
+| 51 | :x: |
 | 52 | :x: |
 | 53 | :x: |
 | 54 | :x: |
@@ -86,12 +86,13 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 57 | :x: |
 | 58 | :x: |
 | 59 | :x: |
+| 60 | :x: |
 
 ### Nível 6: Métodos
 | Exercício  | Estado |
 | :---------------: | :---------------: |
-| 60 | :x: |
 | 61 | :x: |
 | 62 | :x: |
 | 63 | :x: |
 | 64 | :x: |
+| 65 | :x: |
