@@ -33,7 +33,7 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 16 | :white_check_mark: |
 | 17 | :white_check_mark: |
 | 18 | :white_check_mark: |
-| 19 | :x: |
+| 19 | :white_check_mark: |
 | 20 | :x: |
 | 22 | :x: |
 | 22 | :x: |

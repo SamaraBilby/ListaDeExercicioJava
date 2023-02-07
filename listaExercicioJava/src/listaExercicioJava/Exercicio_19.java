@@ -13,8 +13,34 @@
 
 package listaExercicioJava;
 
-public class Exercicio_19 {
-    public static void main(String[] args){
+import java.util.Scanner;
 
+public class Exercicio_19 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+            System.out.println("Digite o código do produto: ");
+            int codigo = sc.nextInt();
+
+            switch(codigo){
+                case 1:
+                    System.out.println("O produto é da categoria: Alimento não perecível.");
+                    break;
+                case 2:
+                    System.out.println("O produto é da categoria: Alimento perecível.");
+                    break;
+                case 5, 6:
+                    System.out.println("O produto é da categoria: Vestuário.");
+                    break;
+                case 7:
+                    System.out.println("O produto é da categoria: Higiene pessoal.");
+                    break;
+                case 8, 9, 10, 11, 12, 13, 14, 15:
+                    System.out.println("O produto é da categoria: Limpeza e utensílios domésticos.");
+                    break;
+                default:
+                System.out.println("Código inválido.");
+            }
+        sc.close();
     }
 }
