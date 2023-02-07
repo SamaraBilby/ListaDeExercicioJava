@@ -37,7 +37,7 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 20 | :white_check_mark: |
 | 21 | :white_check_mark: |
 | 22 | :white_check_mark: |
-| 23 | :x: |
+| 23 | :white_check_mark: |
 
 
 ### Nível 3: Estrutura de Seleção
