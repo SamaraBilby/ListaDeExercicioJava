@@ -1,6 +1,7 @@
 # Exercícios em Java 
 
- :partying_face: Sintam-se livres para sugerir correções. 
+ :partying_face: Sintam-se livres para sugerir correções.
+ 
  :love_letter:   Fiquem à vontade para me enviar pull requests, issues, alterações etc...
 
 Lista de 65 Exercícios em resolvidos em JAVA 
