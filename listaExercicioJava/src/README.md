@@ -22,7 +22,7 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 09 | :white_check_mark: |
 | 10 | :white_check_mark: |
 
-### Nível 2: Estruturas Condicionais
+### Nível 2: Estruturas Condicionais e Seleção
 | Exercício  | Estado |
 | :---------------: | :---------------: |
 | 11 | :white_check_mark: |
@@ -40,16 +40,12 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | 23 | :white_check_mark: |
 
 
-### Nível 3: Estrutura de Seleção
-| Exercício  | Estado |
-| :---------------: | :---------------: |
-| 24 | :x: |
-| 25 | :x: |
-| 26 | :x: |
-
 ### Nível 4: Estruturas de Repetição
 | Exercício  | Estado |
 | :---------------: | :---------------: |
+| 24 | :eight_pointed_black_star: |
+| 25 | :x: |
+| 26 | :x: |
 | 27 | :x: |
 | 28 | :x: |
 | 29 | :x: |
