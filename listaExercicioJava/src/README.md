@@ -44,7 +44,7 @@ Lista de 64 Exercícios em resolvidos em JAVA
 | Exercício  | Estado |
 | :---------------: | :---------------: |
 | 24 | :eight_pointed_black_star: |
-| 25 | :x: |
+| 25 | :eight_pointed_black_star: |
 | 26 | :x: |
 | 27 | :x: |
 | 28 | :x: |
