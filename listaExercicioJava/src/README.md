@@ -1,6 +1,9 @@
 # Exercícios em Java 
 
-Lista de 64 Exercícios em resolvidos em JAVA 
+ :partying_face: Sintam-se livres para sugerir correções. 
+ :love_letter:   Fiquem à vontade para me enviar pull requests, issues, alterações etc...
+
+Lista de 65 Exercícios em resolvidos em JAVA 
 
 | Símbolo  | Significado |
 | :---------------: | :--------------- |
