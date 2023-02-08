@@ -37,7 +37,5 @@ public class Exercicio_25 {
 
             System.out.printf("A media dos números pares digitados: %.2f", media);
         sc.close();
-
-
     }
 }

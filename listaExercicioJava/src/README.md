@@ -1,8 +1,8 @@
 # Exercícios em Java 
 
  :partying_face: Sintam-se livres para sugerir correções.
- 
- :love_letter:   Fiquem à vontade para me enviar pull requests, issues, alterações etc...
+
+ :love_letter:   Fiquem à vontade para enviar pull requests, issues, alterações etc...
 
 Lista de 65 Exercícios em resolvidos em JAVA 
 
@@ -49,7 +49,7 @@ Lista de 65 Exercícios em resolvidos em JAVA
 | :---------------: | :---------------: |
 | 24 | :eight_pointed_black_star: |
 | 25 | :white_check_mark: |
-| 26 | :x: |
+| 26 | :white_check_mark: |
 | 27 | :x: |
 | 28 | :x: |
 | 29 | :x: |
