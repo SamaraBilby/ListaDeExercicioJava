@@ -52,8 +52,8 @@ Lista de 65 Exercícios resolvidos em JAVA
 | 26 | :white_check_mark: |
 | 27 | :white_check_mark: |
 | 28 | :white_check_mark: |
-| 29 | :white_check_mark: |
-| 30 | :x: |
+| 29 | :eight_pointed_black_star: |
+| 30 | :white_check_mark: |
 | 31 | :x: |
 | 32 | :x: |
 | 33 | :x: |
