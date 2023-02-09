@@ -4,7 +4,7 @@
 
  :love_letter:   Fiquem à vontade para enviar pull requests, issues, alterações etc...
 
-Lista de 65 Exercícios em resolvidos em JAVA 
+Lista de 65 Exercícios resolvidos em JAVA 
 
 | Símbolo  | Significado |
 | :---------------: | :--------------- |
@@ -52,7 +52,7 @@ Lista de 65 Exercícios em resolvidos em JAVA
 | 26 | :white_check_mark: |
 | 27 | :white_check_mark: |
 | 28 | :white_check_mark: |
-| 29 | :x: |
+| 29 | :white_check_mark: |
 | 30 | :x: |
 | 31 | :x: |
 | 32 | :x: |
