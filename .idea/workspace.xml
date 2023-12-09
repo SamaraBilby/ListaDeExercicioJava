@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ec894a6-f87c-44ed-bd8f-ec1fe5dfe5f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logicaDeprogramacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ZKFHrZBqg7zNORdyHYysMpEKmZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samara\logicaDeProgramacao\logicaDeprogramacao\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Exercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaDeExercicioJava.listaExercicioJava.src.listaExercicioJava.Exercicio_1" />
+      <module name="logicaDeprogramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeExercicioJava.listaExercicioJava.src.listaExercicioJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaExercicioJava.src.listaExercicioJava.Exercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExercicioJava.src.listaExercicioJava.Exercicio_1" />
+      <module name="logicaDeprogramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExercicioJava.src.listaExercicioJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="logicaDeprogramacao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ListaExercicioJava.src.listaExercicioJava.Exercicio_1" />
+        <item itemvalue="Application.Exercicio_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec894a6-f87c-44ed-bd8f-ec1fe5dfe5f6" name="Changes" comment="" />
+      <created>1702162783149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702162783149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
