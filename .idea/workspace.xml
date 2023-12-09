@@ -4,53 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec894a6-f87c-44ed-bd8f-ec1fe5dfe5f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logicaDeprogramacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="2ec894a6-f87c-44ed-bd8f-ec1fe5dfe5f6" name="Changes" comment="exercicio 35">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaExercicioJava/src/listaExercicioJava/Exercicio_35.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +50,26 @@
       <recent name="C:\Users\Samara\logicaDeProgramacao\logicaDeprogramacao\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Exercicio_35">
     <configuration name="Exercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListaDeExercicioJava.listaExercicioJava.src.listaExercicioJava.Exercicio_1" />
       <module name="logicaDeprogramacao" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListaDeExercicioJava.listaExercicioJava.src.listaExercicioJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaExercicioJava.src.listaExercicioJava.Exercicio_35" />
+      <module name="logicaDeprogramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaExercicioJava.src.listaExercicioJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio_35" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ListaExercicioJava.src.listaExercicioJava.Exercicio_1" />
         <item itemvalue="Application.Exercicio_1" />
@@ -157,5 +127,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicio 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio 35" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
